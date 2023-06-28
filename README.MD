@@ -1,9 +1,3 @@
-<style>
-    a {
-        color: white;
-    }
-</style>
-
 # The Complete Flutter Development Bootcamp with Dart - Dr. Angela Yu
 
 This repository is meant to be a learning repository with examples going from easier to harder.
