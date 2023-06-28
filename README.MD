@@ -15,7 +15,7 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
   ### Widgets Used
   1. MaterialApp()
   2. Center()
-    * child: Text()
+     * child: Text()
 
   <!-- ### Some Code
   ```js
