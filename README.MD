@@ -1,3 +1,9 @@
+<style>
+    a {
+        color: white;
+    }
+</style>
+
 # The Complete Flutter Development Bootcamp with Dart - Dr. Angela Yu
 
 This repository is meant to be a learning repository with examples going from easier to harder.
@@ -21,9 +27,3 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
   1. 
   2. 
 </details>
-
-<style>
-    a {
-        color: white;
-    }
-</style>
