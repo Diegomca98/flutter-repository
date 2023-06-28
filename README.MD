@@ -12,7 +12,7 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
 <details>
   <summary>Widget List</summary>
   
-  ### Video 24. Creating a New Flutter Project from Scratch
+  ##### Video 24. Creating a New Flutter Project from Scratch
   1. MaterialApp()
   2. Center()
      * child: Text()
