@@ -61,4 +61,10 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
         );
     }
   ```
+
+  #### 27. Working with Assets in Flutter & the Pubspec file
+  1. Image()
+     * AssetImage('images/diamond.png'),
+  * Notes:
+     * To add images to the project you have to modify the pubspec.yaml by adding an <i>assets</i> section as a child of the flutter section
 </details>
