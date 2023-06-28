@@ -20,13 +20,13 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
   Code Added/Modified
   ```
     void main() {
-    runApp(
-        const MaterialApp(
-        home: Center(
-            child: Text('Hello World'),
-        ),
-        ),
-    );
+        runApp(
+            const MaterialApp(
+                home: Center(
+                child: Text('Hello World'),
+                ),
+            ),
+        );
     }
   ```
 
