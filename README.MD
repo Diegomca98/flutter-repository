@@ -17,6 +17,19 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
   2. <a class="documentation" href="https://api.flutter.dev/flutter/widgets/Center-class.html">Center()</a>
      * child: <a class="documentation" href="https://api.flutter.dev/flutter/widgets/Text-class.html">Text()</a>
 
+  Code Added/Modified
+  ```
+    void main() {
+    runApp(
+        const MaterialApp(
+        home: Center(
+            child: Text('Hello World'),
+        ),
+        ),
+    );
+    }
+  ```
+
   #### 26. Scaffolding a Flutter App
   1. 
   2. 
