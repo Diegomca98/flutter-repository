@@ -35,4 +35,7 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
      * <a href="https://api.flutter.dev/flutter/material/AppBar-class.html">AppBar()</a>
          * title: Center(child: Text())
          * backgroundColor: <a href="https://api.flutter.dev/flutter/material/Colors-class.html">Colors</a>
+     * body: <a href="https://api.flutter.dev/flutter/widgets/Image-class.html">Image()</a>
+         * image: NetworkImage('url')
+     * backgroundColor: Colors.blueGrey[200]
 </details>
