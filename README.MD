@@ -31,6 +31,8 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
   ```
 
   #### 26. Scaffolding a Flutter App
-  1. 
-  2. 
+  1. <a href="https://api.flutter.dev/flutter/material/Scaffold-class.html">Scaffold()</a>
+     * <a href="https://api.flutter.dev/flutter/material/AppBar-class.html">AppBar()</a>
+         * title: Center(child: Text())
+         * backgroundColor: <a href="https://api.flutter.dev/flutter/material/Colors-class.html">Colors</a>
 </details>
