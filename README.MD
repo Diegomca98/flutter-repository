@@ -13,11 +13,17 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
   <summary>Widget List</summary>
   
   #### Video 24. Creating a New Flutter Project from Scratch
-  1. <a href="https://api.flutter.dev/flutter/material/MaterialApp-class.html">MaterialApp()</a>
-  2. <a href="https://api.flutter.dev/flutter/widgets/Center-class.html">Center()</a>
-     * child: <a href="https://api.flutter.dev/flutter/widgets/Text-class.html">Text()</a>
+  1. <a class="documentation" href="https://api.flutter.dev/flutter/material/MaterialApp-class.html">MaterialApp()</a>
+  2. <a class="documentation" href="https://api.flutter.dev/flutter/widgets/Center-class.html">Center()</a>
+     * child: <a class="documentation" href="https://api.flutter.dev/flutter/widgets/Text-class.html">Text()</a>
 
   #### 26. Scaffolding a Flutter App
   1. 
   2. 
 </details>
+
+<style>
+    a.documentation {
+        color: white;
+    }
+</style>
