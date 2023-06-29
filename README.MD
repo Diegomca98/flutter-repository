@@ -18,13 +18,8 @@ This project is based on the functionality of the I Am Rich original app, with t
 
 I Am Rich is a 2008 mobile app for iPhones which had minimal function and was priced at US$999.99 (equivalent to $1,359 in 2022). The app was pulled from the App Store less than 24 hours after its launch. Receiving poor reviews from critics, only eight copies were sold. In the years since, several similar applications have been released at lower prices.
 
-### 2. I Am Poor - App Challenge
-This project is a counterpart of the I Am Rich app developed from Section 1 through Section 4
-
-I Am Rich is a 2008 mobile app for iPhones which had minimal function and was priced at US$999.99 (equivalent to $1,359 in 2022). The app was pulled from the App Store less than 24 hours after its launch. Receiving poor reviews from critics, only eight copies were sold. In the years since, several similar applications have been released at lower prices.
-
 <details>
-  <summary>Widget List</summary>
+  <summary>I Am Rich - Widget List</summary>
   
   #### Video 24. Creating a New Flutter Project from Scratch
   1. <a class="documentation" href="https://api.flutter.dev/flutter/material/MaterialApp-class.html">MaterialApp()</a>
@@ -101,6 +96,19 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
          5. MTP(Media Transfer Protocol) is the default mode.
          6. Works even in MTP in some cases
          7. Set USB Configuration to Charging
+
+</details>
+
+<hr>
+
+### 2. I Am Poor - App Challenge
+This project is a counterpart of the I Am Rich app developed from Section 1 through Section 4
+
+I Am Rich is a 2008 mobile app for iPhones which had minimal function and was priced at US$999.99 (equivalent to $1,359 in 2022). The app was pulled from the App Store less than 24 hours after its launch. Receiving poor reviews from critics, only eight copies were sold. In the years since, several similar applications have been released at lower prices.
+
+<details>
+  <summary>I Am Poor - Widget List</summary>
+  
   #### Section 5: I Am Poor - App Challenge
   Using what you have learnt from the I Am Rich app, you'll be building a simple Flutter app from scratch. If you head over to this link, you can download the Widget tree structure:
 
@@ -109,5 +117,4 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
   Using the Widget tree structure, create an app called I Am Poor, using everything you have learnt so far. Try to customise the app as much as you can to make it your own!
 
   You can use your own images, or simply find one from the internet.
-
 </details>
