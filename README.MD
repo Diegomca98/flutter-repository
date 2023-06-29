@@ -96,9 +96,12 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
 
   You can use your own images, or simply find one from the internet.
 
-  <summary>Useful Resources</summary>
-  1. <a href="https://icons8.com/">Iconos8</a>
-  2. <a href="https://www.vecteezy.com/">Vecteezy</a>
-  3. <a href="https://www.canva.com/">Canva</a>
+</details>
 
+<details>
+  <summary>Useful Resources</summary>
+   
+   1. <a href="https://icons8.com/">Iconos8</a>
+   2. <a href="https://www.vecteezy.com/">Vecteezy</a>
+   3. <a href="https://www.canva.com/">Canva</a>
 </details>
