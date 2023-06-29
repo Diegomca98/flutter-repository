@@ -102,7 +102,7 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
 <br/>
 
 ### 2. I Am Poor - App Challenge
-This project is a counterpart of the I Am Rich app developed from Section 1 through Section 4
+This project is a counterpart of the I Am Rich app developed from Section 1 through Section 4 in order to test our learning from the previous sections.
 
 I Am Rich is a 2008 mobile app for iPhones which had minimal function and was priced at US$999.99 (equivalent to $1,359 in 2022). The app was pulled from the App Store less than 24 hours after its launch. Receiving poor reviews from critics, only eight copies were sold. In the years since, several similar applications have been released at lower prices.
 
