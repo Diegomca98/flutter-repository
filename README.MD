@@ -87,4 +87,18 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
          5. MTP(Media Transfer Protocol) is the default mode.
          6. Works even in MTP in some cases
          7. Set USB Configuration to Charging
+  #### Section 5: I Am Poor - App Challenge
+  Using what you have learnt from the I Am Rich app, you'll be building a simple Flutter app from scratch. If you head over to this link, you can download the Widget tree structure:
+
+  <a href="https://drive.google.com/uc?export=download&id=1DcvqcMiRD9GA9Cci9akfSMDfPd9Nrn3e">Widget Tree Structure</a>
+
+  Using the Widget tree structure, create an app called I Am Poor, using everything you have learnt so far. Try to customise the app as much as you can to make it your own!
+
+  You can use your own images, or simply find one from the internet.
+
+  <summary>Useful Resources</summary>
+  1. <a href="https://icons8.com/">Iconos8</a>
+  2. <a href="https://www.vecteezy.com/">Vecteezy</a>
+  3. <a href="https://www.canva.com/">Canva</a>
+
 </details>
