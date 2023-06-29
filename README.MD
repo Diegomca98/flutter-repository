@@ -2,7 +2,7 @@
 
 This repository is meant to be a learning repository with examples going from easier to harder.
 
-All these projects are from the course https://www.udemy.com/course/flutter-bootcamp-with-dart/ and are going to be enumerated from 0 (Easy) to N (Hard)
+All these projects are from the course <a href="https://www.udemy.com/course/flutter-bootcamp-with-dart/">Flutter Bootcamp with Dart</a> and are going to be enumerated from 0 (Easy) to N (Hard).
 
 <details>
   <summary>Useful Resources</summary>
