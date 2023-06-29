@@ -67,4 +67,23 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
      * AssetImage('images/diamond.png'),
   * Notes:
      * To add images to the project you have to modify the pubspec.yaml by adding an <i>assets</i> section as a child of the flutter section
+
+  #### Section 4: Running Your App on a Physical Device
+  1. Enable Developer Mode
+     * Settings > Search for Build number
+     * Tap the Build Number until you get the pop up saying that you're now a developer
+  2. Go to Developer options and enable USB Debugging
+  3. Connect the Phone with USB
+  4. Trust Your Computer if Prompted
+  5. Run App in your Phone
+
+  * Notes:
+     * Troubleshooting MIUI 9 and above
+         1. Settings -> Additional Settings -> Developer options ->
+         2. Turn off "MIUI optimization" and Restart
+         3. Turn On "USB Debugging"
+         4. Turn On "Install via USB"
+         5. MTP(Media Transfer Protocol) is the default mode.
+         6. Works even in MTP in some cases
+         7. Set USB Configuration to Charging
 </details>
