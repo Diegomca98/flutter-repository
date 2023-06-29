@@ -4,8 +4,22 @@ This repository is meant to be a learning repository with examples going from ea
 
 All these projects are from the course https://www.udemy.com/course/flutter-bootcamp-with-dart/ and are going to be enumerated from 0 (Easy) to N (Hard)
 
-## 1. I am rich
+<details>
+  <summary>Useful Resources</summary>
+   
+   1. <a href="https://icons8.com/">Iconos8</a>
+   2. <a href="https://www.vecteezy.com/">Vecteezy</a>
+   3. <a href="https://www.canva.com/">Canva</a>
+</details>
+
+## Apps Developed
+### 1. I Am Rich
 This project is based on the functionality of the I Am Rich original app, with the sole purpose of showing the most basic functionality and structure of the Dart language and the Flutter framework.
+
+I Am Rich is a 2008 mobile app for iPhones which had minimal function and was priced at US$999.99 (equivalent to $1,359 in 2022). The app was pulled from the App Store less than 24 hours after its launch. Receiving poor reviews from critics, only eight copies were sold. In the years since, several similar applications have been released at lower prices.
+
+### 2. I Am Poor - App Challenge
+This project is a counterpart of the I Am Rich app developed from Section 1 through Section 4
 
 I Am Rich is a 2008 mobile app for iPhones which had minimal function and was priced at US$999.99 (equivalent to $1,359 in 2022). The app was pulled from the App Store less than 24 hours after its launch. Receiving poor reviews from critics, only eight copies were sold. In the years since, several similar applications have been released at lower prices.
 
@@ -96,12 +110,4 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
 
   You can use your own images, or simply find one from the internet.
 
-</details>
-
-<details>
-  <summary>Useful Resources</summary>
-   
-   1. <a href="https://icons8.com/">Iconos8</a>
-   2. <a href="https://www.vecteezy.com/">Vecteezy</a>
-   3. <a href="https://www.canva.com/">Canva</a>
 </details>
