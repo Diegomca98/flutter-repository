@@ -78,6 +78,7 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
   5. Run App in your Phone
 
   * Notes:
+     * If needed you can check -> <a href="https://blog.londonappbrewery.com/troubleshooting-android-device-testing-on-windows-a2b5d779df08">Troubleshooting Android Device Testing</a>
      * Troubleshooting MIUI 9 and above
          1. Settings -> Additional Settings -> Developer options ->
          2. Turn off "MIUI optimization" and Restart
