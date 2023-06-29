@@ -99,7 +99,7 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
 
 </details>
 
-<br/><br/>
+<br/>
 
 ### 2. I Am Poor - App Challenge
 This project is a counterpart of the I Am Rich app developed from Section 1 through Section 4
