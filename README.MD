@@ -99,7 +99,7 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
 
 </details>
 <details>
-  <summary>Widget Tree - I Am Rich</summary>
+  <summary>I Am Rich - Widget Tree</summary>
   <img src="./general_resources/i_am_rich_widget_tree.png" alt="Widget Tree - I Am Rich">
 
 </details>
