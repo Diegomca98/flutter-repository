@@ -7,9 +7,10 @@ All these projects are from the course <a href="https://www.udemy.com/course/flu
 <details>
   <summary>Useful Resources</summary>
    
-   1. <a href="https://icons8.com/">Iconos8</a>
-   2. <a href="https://www.vecteezy.com/">Vecteezy</a>
-   3. <a href="https://www.canva.com/">Canva</a>
+   1. <a href="https://docs.flutter.dev/ui/widgets">Flutter Widget Catalog</a>
+   2. <a href="https://icons8.com/">Iconos8</a>
+   3. <a href="https://www.vecteezy.com/">Vecteezy</a>
+   4. <a href="https://www.canva.com/">Canva</a>
 </details>
 
 ## Apps Developed
@@ -151,4 +152,21 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 <details>
   <summary>My Card - Notes</summary>
+
+  ## 40. Hot Reload and Hot Restart - Flutter Power Tools
+  Notes:
+   * In order for the Hot Reload to work the widgets should be inside of a Stateful or a Stateless widget
+  
+  ## 41. How to Use Container Widgets
+  Documentation:
+   * <a href="https://docs.flutter.dev/ui/widgets">Widget Catalog</a>
+   * <a href="https://docs.flutter.dev/ui/widgets/layout">Layout Widgets</a>
+  <a href="https://api.flutter.dev/flutter/widgets/Container-class.html">Container Class Widget</a>
+
+  Notes:
+   * A <b>layout</b> is the way in which the parts of something are arranged or laid out.
+   * In Flutter there are multi-child and single-child layout widgets
+     * A container is a single-child widget
+     * Rows and Columns are multi-child widgets
+   * A container widget is basically a box or a div when you see it from the web developer perspective.
 </details>
