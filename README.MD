@@ -19,9 +19,9 @@ This project is based on the functionality of the I Am Rich original app, with t
 I Am Rich is a 2008 mobile app for iPhones which had minimal function and was priced at US$999.99 (equivalent to $1,359 in 2022). The app was pulled from the App Store less than 24 hours after its launch. Receiving poor reviews from critics, only eight copies were sold. In the years since, several similar applications have been released at lower prices.
 
 <details>
-  <summary>I Am Rich - Widget List</summary>
+  <summary>I Am Rich - Notes</summary>
   
-  #### Video 24. Creating a New Flutter Project from Scratch
+  #### 24. Creating a New Flutter Project from Scratch
   1. <a class="documentation" href="https://api.flutter.dev/flutter/material/MaterialApp-class.html">MaterialApp()</a>
   2. <a class="documentation" href="https://api.flutter.dev/flutter/widgets/Center-class.html">Center()</a>
      * child: <a class="documentation" href="https://api.flutter.dev/flutter/widgets/Text-class.html">Text()</a>
@@ -112,7 +112,7 @@ This project is a counterpart of the I Am Rich app developed from Section 1 thro
 I Am Rich is a 2008 mobile app for iPhones which had minimal function and was priced at US$999.99 (equivalent to $1,359 in 2022). The app was pulled from the App Store less than 24 hours after its launch. Receiving poor reviews from critics, only eight copies were sold. In the years since, several similar applications have been released at lower prices.
 
 <details>
-  <summary>I Am Poor - Widget List</summary>
+  <summary>I Am Poor - Notes</summary>
   
   #### Section 5: I Am Poor - App Challenge
   Using what you have learnt from the I Am Rich app, you'll be building a simple Flutter app from scratch. If you head over to this link, you can download the Widget tree structure:
@@ -128,4 +128,27 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
   <summary>I Am Poor - Widget Tree</summary>
   <img src="./general_resources/i_am_poor_widget_tree.png" alt="Widget Tree - I Am Rich">
 
+</details>
+
+
+### 3. My Card
+
+#### Our Goal
+Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
+
+#### What you will create
+Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
+
+#### What you will learn
+* How to create Stateless Widgets
+* What is the difference between hot reload and hot refresh and running an app from cold
+* How to use Containers to lay out your UI
+* How to use Columns and Rows to position your UI elements
+* How to add custom fonts
+* How to add Material icons
+* How to style Text widgets
+* How to read and use Flutter Documentation
+
+<details>
+  <summary>My Card - Notes</summary>
 </details>
