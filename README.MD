@@ -11,6 +11,7 @@ All these projects are from the course <a href="https://www.udemy.com/course/flu
    2. <a href="https://icons8.com/">Iconos8</a>
    3. <a href="https://www.vecteezy.com/">Vecteezy</a>
    4. <a href="https://www.canva.com/">Canva</a>
+   5. <a href="https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e">Flutter Layout Cheat Sheet</a>
 </details>
 
 ## Apps Developed
@@ -104,8 +105,6 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
   <img src="./general_resources/i_am_rich_widget_tree.png" alt="Widget Tree - I Am Rich">
 
 </details>
-
-<br/>
 
 ### 2. I Am Poor - App Challenge
 This project is a counterpart of the I Am Rich app developed from Section 1 through Section 4 in order to test our learning from the previous sections.

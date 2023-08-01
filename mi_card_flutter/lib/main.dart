@@ -11,18 +11,24 @@ class MyCardApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.teal,
         body: SafeArea(
-          child: Container(
-            height: 100.0,
-            width: 100.0,
-            margin: EdgeInsets.symmetric(
-              vertical: 50.0,
-              horizontal: 10.0,
-            ),
-            padding: EdgeInsets.all(20.0),
-            color: Colors.white,
-            child: Text('Hello World'),
+          child: Column(
+            children: [
+              CircleAvatar(
+                radius: 50.0,
+                backgroundImage:
+                    AssetImage('images/profile_picture_mi_card.jpg'),
+              ),
+              Text(
+                'Diego Enriquez',
+                style: TextStyle(
+                  fontSize: 40.0,
+                  color: Colors.white,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
           ),
         ),
       ),
