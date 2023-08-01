@@ -12,6 +12,7 @@ All these projects are from the course <a href="https://www.udemy.com/course/flu
    3. <a href="https://www.vecteezy.com/">Vecteezy</a>
    4. <a href="https://www.canva.com/">Canva</a>
    5. <a href="https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e">Flutter Layout Cheat Sheet</a>
+   6. <a href="https://www.flutterbeads.com/circular-image-in-flutter/?expand_article=1">Circular Using CircleAvatar</a>
 </details>
 
 ## Apps Developed
