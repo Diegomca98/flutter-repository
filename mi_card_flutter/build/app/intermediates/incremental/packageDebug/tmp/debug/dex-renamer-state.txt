@@ -1,4 +1,4 @@
-#Mon Jul 31 19:03:48 CDT 2023
+#Wed Aug 02 13:53:32 CDT 2023
 base.0=F\:\\Documentos\\Cursos\\angela-yu-courses\\projects\\flutter-repository\\mi_card_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

@@ -13,6 +13,13 @@ All these projects are from the course <a href="https://www.udemy.com/course/flu
    4. <a href="https://www.canva.com/">Canva</a>
    5. <a href="https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e">Flutter Layout Cheat Sheet</a>
    6. <a href="https://www.flutterbeads.com/circular-image-in-flutter/?expand_article=1">Circular Using CircleAvatar</a>
+   7. <a href="https://flutter.io/custom-fonts/#from-packages">Integrate Custom Fonts</a>
+   8. <a href="https://api.flutter.dev/flutter/widgets/Icon-class.html">Icons Class - Using icons like phone, envelope, etc.</a>
+   9. <a href="https://fonts.google.com/icons">Available Icons for Flutter</a>
+   10. <a href="https://www.materialpalette.com/">Intelligent Icon Color Palette Choosing</a>
+   11. <a href="https://api.flutter.dev/flutter/material/Card-class.html">Card Widget</a>
+   12. <a href="https://api.flutter.dev/flutter/widgets/Padding-class.html">Padding Class - For widgets that don't have padding property</a>
+   13. <a href="https://api.flutter.dev/flutter/material/ListTile-class.html">ListTile - Display Icons and Text in Card Widgets</a>
 </details>
 
 ## Apps Developed

@@ -39,6 +39,17 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - images/
+  
+  fonts:
+    - family: Handjet
+      fonts:
+        - asset: fonts/Handjet-Font.ttf
+        - asset: fonts/Handjet-Light.ttf
+    - family: SourceSans
+      fonts:
+        - asset: fonts/SourceSans3-Regular.ttf
+        - asset: fonts/SourceSans3-Bold.ttf
+        - asset: fonts/SourceSans3-SemiBold.ttf
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
