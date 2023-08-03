@@ -1,16 +1,101 @@
-# i_am_rich
+# I Am Rich
+This project is based on the functionality of the I Am Rich original app, with the sole purpose of showing the most basic functionality and structure of the Dart language and the Flutter framework.
 
-A new Flutter project.
+I Am Rich is a 2008 mobile app for iPhones which had minimal function and was priced at US$999.99 (equivalent to $1,359 in 2022). The app was pulled from the App Store less than 24 hours after its launch. Receiving poor reviews from critics, only eight copies were sold. In the years since, several similar applications have been released at lower prices.
 
-## Getting Started
+<details>
+  <summary>Useful Resources</summary>
+   
+   1. <a href="https://docs.flutter.dev/ui/widgets">Flutter Widget Catalog</a>
+   2. <a href="https://icons8.com/">Iconos8</a>
+   3. <a href="https://www.vecteezy.com/">Vecteezy</a>
+   4. <a href="https://www.canva.com/">Canva</a>
+</details>
 
-This project is a starting point for a Flutter application.
+<details>
+  <summary>I Am Rich - Notes</summary>
+  
+  #### 24. Creating a New Flutter Project from Scratch
+  1. <a class="documentation" href="https://api.flutter.dev/flutter/material/MaterialApp-class.html">MaterialApp()</a>
+  2. <a class="documentation" href="https://api.flutter.dev/flutter/widgets/Center-class.html">Center()</a>
+     * child: <a class="documentation" href="https://api.flutter.dev/flutter/widgets/Text-class.html">Text()</a>
 
-A few resources to get you started if this is your first Flutter project:
+  Code Added/Modified
+  ```
+    void main() {
+        runApp(
+            const MaterialApp(
+                home: Center(
+                child: Text('Hello World'),
+                ),
+            ),
+        );
+    }
+  ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  #### 26. Scaffolding a Flutter App
+  1. <a href="https://api.flutter.dev/flutter/material/Scaffold-class.html">Scaffold()</a>
+     * <a href="https://api.flutter.dev/flutter/material/AppBar-class.html">AppBar()</a>
+         * title: Center(child: Text())
+         * backgroundColor: <a href="https://api.flutter.dev/flutter/material/Colors-class.html">Colors</a>
+     * body: <a href="https://api.flutter.dev/flutter/widgets/Image-class.html">Image()</a>
+         * image: NetworkImage('url')
+     * backgroundColor: Colors.blueGrey[200]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Code Added/Modified
+  ```
+    void main() {
+        runApp(
+            MaterialApp(
+                home: Scaffold(
+                    appBar: AppBar(
+                    title: Center(
+                        child: Text("I Am Rich"),
+                    ),
+                    backgroundColor: Colors.blueGrey[900],
+                    ),
+                    body: Center(
+                        child: Image(
+                            image: NetworkImage(
+                                'https://camo.githubusercontent.com/dc130e15e764a2ce83daf7503c9b73e5ee349259ceb82b4a0f393339289f8564/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a352d616f4b3849426d58766535776842514d393047412e706e67'))),
+                    backgroundColor: Colors.blueGrey[200],
+                ),
+            ),
+        );
+    }
+  ```
+
+  #### 27. Working with Assets in Flutter & the Pubspec file
+  1. Image()
+     * AssetImage('images/diamond.png'),
+  * Notes:
+     * To add images to the project you have to modify the pubspec.yaml by adding an <i>assets</i> section as a child of the flutter section
+
+  #### Section 4: Running Your App on a Physical Device
+  1. Enable Developer Mode
+     * Settings > Search for Build number
+     * Tap the Build Number until you get the pop up saying that you're now a developer
+  2. Go to Developer options and enable USB Debugging
+  3. Connect the Phone with USB
+  4. Trust Your Computer if Prompted
+  5. Run App in your Phone
+
+  * Notes:
+     * If needed you can check -> <a href="https://blog.londonappbrewery.com/troubleshooting-android-device-testing-on-windows-a2b5d779df08">Troubleshooting Android Device Testing</a>
+     * Troubleshooting MIUI 9 and above
+         1. Settings -> Additional Settings -> Developer options ->
+         2. Turn off "MIUI optimization" and Restart
+         3. Turn On "USB Debugging"
+         4. Turn On "Install via USB"
+         5. MTP(Media Transfer Protocol) is the default mode.
+         6. Works even in MTP in some cases
+         7. Set USB Configuration to Charging
+
+</details>
+<details>
+  <summary>I Am Rich - Widget Tree</summary>
+  <img src="./general_resources/i_am_rich_widget_tree.png" alt="Widget Tree - I Am Rich">
+
+</details>
+
+[online documentation](https://docs.flutter.dev/)
