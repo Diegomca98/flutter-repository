@@ -198,3 +198,9 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Understand and use string interpolation.
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
+
+<details>
+  <summary>I Am Poor - Widget Tree</summary>
+  <img src="./general_resources/mi_card_widget_tree.png" alt="Widget Tree - I Am Rich">
+
+</details>
