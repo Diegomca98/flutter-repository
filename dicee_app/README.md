@@ -20,6 +20,16 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Code and use gesture controls.
 
 <details>
+  <summary>Useful Resources</summary>
+   
+   1. [New Buttons and Button Themes](https://docs.flutter.dev/release/breaking-changes/buttons)
+   2. [TextButton Widget](https://api.flutter.dev/flutter/material/TextButton-class.html)
+   3. [ElevatedButton Widget](https://api.flutter.dev/flutter/material/ElevatedButton-class.html)
+   5. [OutlinedButton Widget](https://api.flutter.dev/flutter/material/OutlinedButton-class.html)
+
+</details>
+
+<details>
   <summary>I Am Poor - Widget Tree</summary>
   <img src="./general_resources/mi_card_widget_tree.png" alt="Widget Tree - I Am Rich">
 
