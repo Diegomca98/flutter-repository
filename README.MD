@@ -20,6 +20,7 @@ All these projects are from the course <a href="https://www.udemy.com/course/flu
    11. <a href="https://api.flutter.dev/flutter/material/Card-class.html">Card Widget</a>
    12. <a href="https://api.flutter.dev/flutter/widgets/Padding-class.html">Padding Class - For widgets that don't have padding property</a>
    13. <a href="https://api.flutter.dev/flutter/material/ListTile-class.html">ListTile - Display Icons and Text in Card Widgets</a>
+   14. <a href="https://api.flutter.dev/flutter/widgets/Expanded-class.html">Expanded Class - To fill the available space in the main axis(Only on Row, Column or Flex childs)</a>
 </details>
 
 ## Apps Developed
