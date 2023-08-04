@@ -19,13 +19,30 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
+##### 58. Stateful vs Stateless Widgets - What's the Difference?
+- Stateless Widget never changes its state
+- Stateful Widget has a mutable state
+
+**Example: Painting in the process**
+In this example we only have 2 elements:
+- Canvas
+  - The canvas can be seen as a StatelessWidget. The canvas itself doesn't have internal state; it is like a blank sheet or surface where the painting is created. It remains the same throughout the painting process and doesn't change its properties once it's created. In Flutter, the canvas could be represented by a custom StatelessWidget that provides a blank drawing area to draw on.
+- Drawing
+  - The drawing process involves changes and updates as the artist adds more elements to the canvas. This drawing process can be represented as a StatefulWidget. The drawing widget maintains internal state to keep track of the current state of the artwork being created. It might hold information about the elements drawn, such as lines, shapes, or colors, and update the canvas accordingly.
+
 <details>
   <summary>Useful Resources</summary>
    
    1. [New Buttons and Button Themes](https://docs.flutter.dev/release/breaking-changes/buttons)
    2. [TextButton Widget](https://api.flutter.dev/flutter/material/TextButton-class.html)
    3. [ElevatedButton Widget](https://api.flutter.dev/flutter/material/ElevatedButton-class.html)
-   5. [OutlinedButton Widget](https://api.flutter.dev/flutter/material/OutlinedButton-class.html)
+   4. [OutlinedButton Widget](https://api.flutter.dev/flutter/material/OutlinedButton-class.html)
+   5. [Stateless Widget](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
+   6. [Stateful Widget](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)
+   7. [Add interactivity to your Flutter app](https://docs.flutter.dev/ui/interactivity)
+   8. [dart:math library](https://api.dart.dev/stable/3.0.7/dart-math/dart-math-library.html)
+   9. [Random Class - Randomize Numbers](https://api.flutter.dev/flutter/dart-math/Random-class.html)
+   10. [Fixed Len List](https://api.dart.dev/stable/2.13.4/dart-core/List/List.filled.html)
 
 </details>
 
