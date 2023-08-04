@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'dart:math';
 
 void main() {
   return runApp(
@@ -6,7 +7,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.red,
         appBar: AppBar(
-          title: Text('Dicee'),
+          title: const Text('Dicee'),
           backgroundColor: Colors.red,
         ),
         body: DicePage(),
@@ -15,23 +16,42 @@ void main() {
   );
 }
 
-class DicePage extends StatelessWidget {
+class DicePage extends StatefulWidget {
+  const DicePage({super.key});
+
+  @override
+  State<DicePage> createState() => _DicePageState();
+}
+
+class _DicePageState extends State<DicePage> {
+  int leftDiceNumber = 1;
+  var diceNumbers = List.filled(2, 1);
+
   @override
   Widget build(BuildContext context) {
-    var leftDiceNumber = 4;
     return Center(
       child: Row(
         children: [
           Expanded(
             child: TextButton(
-              child: Image.asset('images/dice$leftDiceNumber.png'),
-              onPressed: () {},
+              onPressed: () {
+                setState(() {
+                  diceNumbers[0] = Random().nextInt(6) + 1;
+                  diceNumbers[1] = Random().nextInt(6) + 1;
+                });
+              },
+              child: Image.asset('images/dice${diceNumbers[0]}.png'),
             ),
           ),
           Expanded(
             child: TextButton(
-              child: Image.asset('images/dice1.png'),
-              onPressed: () {},
+              onPressed: () {
+                setState(() {
+                  diceNumbers[0] = Random().nextInt(6) + 1;
+                  diceNumbers[1] = Random().nextInt(6) + 1;
+                });
+              },
+              child: Image.asset('images/dice${diceNumbers[1]}.png'),
             ),
           ),
         ],
