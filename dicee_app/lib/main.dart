@@ -27,6 +27,13 @@ class _DicePageState extends State<DicePage> {
   int leftDiceNumber = 1;
   var diceNumbers = List.filled(2, 1);
 
+  void _changeDiceNumbers() {
+    setState(() {
+      diceNumbers[0] = Random().nextInt(6) + 1;
+      diceNumbers[1] = Random().nextInt(6) + 1;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Center(
@@ -34,23 +41,13 @@ class _DicePageState extends State<DicePage> {
         children: [
           Expanded(
             child: TextButton(
-              onPressed: () {
-                setState(() {
-                  diceNumbers[0] = Random().nextInt(6) + 1;
-                  diceNumbers[1] = Random().nextInt(6) + 1;
-                });
-              },
+              onPressed: _changeDiceNumbers,
               child: Image.asset('images/dice${diceNumbers[0]}.png'),
             ),
           ),
           Expanded(
             child: TextButton(
-              onPressed: () {
-                setState(() {
-                  diceNumbers[0] = Random().nextInt(6) + 1;
-                  diceNumbers[1] = Random().nextInt(6) + 1;
-                });
-              },
+              onPressed: _changeDiceNumbers,
               child: Image.asset('images/dice${diceNumbers[1]}.png'),
             ),
           ),
