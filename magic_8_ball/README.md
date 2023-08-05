@@ -15,4 +15,4 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   <summary>Magic 8 Ball - Notes</summary>
 </details>
 
-[online documentation](https://docs.flutter.dev/)
+[Online Flutter Docs](https://docs.flutter.dev/)
