@@ -25,6 +25,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   - Create a new Stateless widget called BallPage in your main.dart file.
 
   - Replace the word null with the new Stateless Widget you created.
+  
   ![Null to Stateless Widget](../general_resources/challenges-steps/magic-8-ball/null-to-stateless.png)
 
   - Your BallPage should have a Scaffold with an AppBar and an empty Container as the body.
@@ -34,6 +35,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   - The background your Scaffold should have a blue color.
 
   - Once you run the app this is what you're aiming for:
+  
   ![Step 2 final view](../general_resources/challenges-steps/magic-8-ball/step-2-objective.png)
 
   [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_2.dart)
@@ -53,6 +55,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   - Make sure the image is **centered**.
 
   - When you run the app this is what you're aiming for:
+  
   ![Step 3 Final View](../general_resources/challenges-steps/magic-8-ball/step-3-objective.png)
 
   [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_3.dart)
@@ -66,6 +69,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   - Add a `print` statement that gets triggered when the button is **pressed**. It should print `'I got clicked'`.
 
   - When you **run** the app and click on the ball image you should see the words "I got clicked" into the console like this:
+
   ![Step 4 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step4.gif)
 
   [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_4.dart)
@@ -86,6 +90,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   - Print the `ballNumber` to the console when the button gets pressed.
 
   - When you **run** the app and **click** on the ball image you should see **random number between 0-4** printed in the console like this:
+  
   ![Step 5 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step5.gif)
 
   [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_5.dart)
@@ -101,6 +106,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   - Use `setState()` to update the **state of the image** when the `ballNumber` variable **updates**.
 
   - All going well, you should now have the full functionality of the Magic 8 Ball app, it should look like this:
+  
   ![Step 6 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step6.gif)
 
   <div align='center'>
