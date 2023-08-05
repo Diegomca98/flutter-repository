@@ -127,8 +127,6 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   - Use `setState()` to update the **state of the image** when the `ballNumber` variable **updates**.
 
   - All going well, you should now have the full functionality of the Magic 8 Ball app, it should look like this:
-  
-  ![Step 6 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step6.gif)
 
   <p align='center'><img alt='Step 6 Expected Behaviour' src='../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step6.gif'></p>
 
