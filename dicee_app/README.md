@@ -51,4 +51,5 @@ In this example we only have 2 elements:
   <img src="../general_resources/dicee_widget_tree.png" alt="Widget Tree - I Am Rich">
 
 </details>
+
 [Online Flutter Docs](https://docs.flutter.dev/)
