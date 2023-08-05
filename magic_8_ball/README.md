@@ -52,7 +52,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   - Create a new [Stateful Widget](https://docs.flutter.io/flutter/widgets/StatefulWidget-class.html) called `Ball` in your **main.dart** file.
 
   - Instead of `BallPage` having a body of `Container()` replace it with your new **Stateful Widget**.
-  - 
+  
   ![Replace container with Stateful Widget](../general_resources/challenges-steps/magic-8-ball/replace-container-w-stateful-step3.png)
 
   - Your `Ball` Stateful Widget should display a the **ball1.png** image. (You don't have to touch the pubscpec.yaml file)
