@@ -80,7 +80,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
 
   - When you **run** the app and click on the ball image you should see the words "I got clicked" into the console like this:
 
-  ![Step 4 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step4.gif)
+  <p align='center'><img alt='Step 5 Expected Behaviour' src='../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step4.gif'></p>
 
   <div align='center'>
     <h4>
@@ -106,8 +106,8 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   - Print the `ballNumber` to the console when the button gets pressed.
 
   - When you **run** the app and **click** on the ball image you should see **random number between 0-4** printed in the console like this:
-  
-  ![Step 5 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step5.gif)
+
+  <p align='center'><img alt='Step 5 Expected Behaviour' src='../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step5.gif'></p>
 
   <div align='center'>
     <h4>
