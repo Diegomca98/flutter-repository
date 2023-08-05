@@ -103,7 +103,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   - All going well, you should now have the full functionality of the Magic 8 Ball app, it should look like this:
   ![Step 6 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step6.gif)
 
-  [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_6.dart)
+  ### [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_6.dart)
 </details>
 
 [Online Flutter Docs](https://docs.flutter.dev/)
