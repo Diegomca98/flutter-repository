@@ -104,12 +104,13 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   ![Step 6 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step6.gif)
 
   <div align='center'>
-    <h5>
+    <h4>
       <a href="../general_resources/challenges-steps/magic-8-ball/solutions/step_6.dart">Solution</a>
-    </h5>
+    </h4>
   </div>
-  
-    [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_6.dart)
+
 </details>
+
+<hr>
 
 [Online Flutter Docs](https://docs.flutter.dev/)
