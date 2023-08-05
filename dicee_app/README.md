@@ -48,7 +48,7 @@ In this example we only have 2 elements:
 
 <details>
   <summary>I Am Poor - Widget Tree</summary>
-  <img src="./general_resources/mi_card_widget_tree.png" alt="Widget Tree - I Am Rich">
+  <img src="../general_resources/dicee_widget_tree.png" alt="Widget Tree - I Am Rich">
 
 </details>
 [online documentation](https://docs.flutter.dev/)
