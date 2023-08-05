@@ -38,7 +38,11 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   
   ![Step 2 final view](../general_resources/challenges-steps/magic-8-ball/step-2-objective.png)
 
-  [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_2.dart)
+  <div align='center'>
+    <h4>
+      <a href="../general_resources/challenges-steps/magic-8-ball/solutions/step_2.dart">Solution</a>
+    </h4>
+  </div>
 
 </details>
 
@@ -58,7 +62,12 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   
   ![Step 3 Final View](../general_resources/challenges-steps/magic-8-ball/step-3-objective.png)
 
-  [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_3.dart)
+  <div align='center'>
+    <h4>
+      <a href="../general_resources/challenges-steps/magic-8-ball/solutions/step_3.dart">Solution</a>
+    </h4>
+  </div>
+
 </details>
 
 <details>
@@ -72,7 +81,12 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
 
   ![Step 4 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step4.gif)
 
-  [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_4.dart)
+  <div align='center'>
+    <h4>
+      <a href="../general_resources/challenges-steps/magic-8-ball/solutions/step_4.dart">Solution</a>
+    </h4>
+  </div>
+
 </details>
 
 <details>
@@ -93,7 +107,12 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   
   ![Step 5 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step5.gif)
 
-  [Solution](../general_resources/challenges-steps/magic-8-ball/solutions/step_5.dart)
+  <div align='center'>
+    <h4>
+      <a href="../general_resources/challenges-steps/magic-8-ball/solutions/step_5.dart">Solution</a>
+    </h4>
+  </div>
+
 </details>
 
 <details>
