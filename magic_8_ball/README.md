@@ -111,6 +111,6 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
 
 </details>
 
-<hr>
+---
 
 [Online Flutter Docs](https://docs.flutter.dev/)
