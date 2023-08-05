@@ -24,3 +24,5 @@ All these projects are from the course <a href="https://www.udemy.com/course/flu
 [Mi Card folder](https://github.com/Diegomca98/flutter-repository/tree/main/mi_card_flutter)
 ### 4. Dicee 🎲
 [Dicee folder](https://github.com/Diegomca98/flutter-repository/tree/main/dicee_app)
+### 5. Magic 8 Ball 🎱
+[Magic 8 Ball folder](https://github.com/Diegomca98/flutter-repository/tree/main/magic_8_ball)
