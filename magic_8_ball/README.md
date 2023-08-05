@@ -130,7 +130,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
   
   ![Step 6 Expected Behaviour](../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step6.gif)
 
-  <img align='center' src='../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step6.gif'>
+  <p align='center'><img alt='Step 6 Expected Behaviour' src='../general_resources/challenges-steps/magic-8-ball/expected-behaviour-step6.gif'></p>
 
   <div align='center'>
     <h4>
