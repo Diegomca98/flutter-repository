@@ -12,6 +12,11 @@ All these projects are from the course <a href="https://www.udemy.com/course/flu
    3. <a href="https://www.vecteezy.com/">Vecteezy</a>
    4. <a href="https://www.canva.com/">Canva</a>
    5. <a href="https://docs.flutter.dev/ui">Building User Interfaces - Basics</a>
+   6. <a href="https://pub.dev/">The official package repository for Dart and Flutter apps</a>
+   7. <a href="https://docs.flutter.dev/packages-and-plugins/using-packages">Using Packages - Docs </a>
+   8. <a href="https://docs.flutter.dev/packages-and-plugins/developing-packages">Developing Packages & Plugins - Docs</a>
+   9. <a href="https://dart.dev/language/loops">Dart Loops - Docs</a>
+   10. <a href="https://dart.dev/language/functions">Dart Functions - Docs</a>
    
 </details>
 
@@ -26,3 +31,5 @@ All these projects are from the course <a href="https://www.udemy.com/course/flu
 [Dicee folder](https://github.com/Diegomca98/flutter-repository/tree/main/dicee_app)
 ### 5. Magic 8 Ball 🎱
 [Magic 8 Ball folder](https://github.com/Diegomca98/flutter-repository/tree/main/magic_8_ball)
+### 6. Xylophone 🎹
+[Xylophone App Folder](https://github.com/Diegomca98/flutter-repository/tree/main/xylophone)
