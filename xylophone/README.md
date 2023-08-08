@@ -21,11 +21,25 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 
 <details>
   <summary>Useful Resources</summary>
+  
+  1. <a href="https://pub.dev/">The official package repository for Dart and Flutter apps</a>
+  2. <a href="https://docs.flutter.dev/packages-and-plugins/using-packages">Using Packages - Docs </a>
+  3. <a href="https://docs.flutter.dev/packages-and-plugins/developing-packages">Developing Packages & Plugins - Docs</a>
+  4. <a href="https://pub.dartlang.org/packages/audioplayers">Audioplayers Package</a>
+  5. <a href="https://github.com/bluefireteam/audioplayers/blob/main/getting_started.md#audiocache">AudioCache - Docs</a>
+  6. <a href="https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43">DartPad Functions Exercise</a>
+  7. <a href="https://dart.dev/language/loops">Dart Loops - Docs</a>
+  8. <a href="https://dart.dev/language/functions">Dart Functions - Docs</a>
+  9. <a href="https://freesound.org/">Free Sounds to keep customizing the app</a>
 
 </details>
 
 <details>
   <summary>Xylophone - Notes</summary>
   
-  ## 75. What are Flutter and Dart  
+  ### Troubleshooting
+  * DuplicatedDependencies error - Upgrade build.gradle > buildscript > ext.kotlin_version
+
+  ## 83. Dart - Arrow Functions
+  An arrow function like `int myFunction() => 5*4` returns the result of `5 * 4`, this syntax is to simplify the syntax of functions that only have 1 statement in them  
 </details>
