@@ -51,3 +51,17 @@ Question('Some cats are actually allergic to humans', true),
         true),
 
 ```
+
+<details>
+  <summary>Quizzler - Useful Links</summary>
+
+  1. [ButtonStyle Class](https://api.flutter.dev/flutter/material/ButtonStyle-class.html)
+  2. [Color Class](https://api.flutter.dev/flutter/dart-ui/Color-class.html)
+  3. [How can I change the background color of a textbutton in flutter?](https://stackoverflow.com/questions/66547273/how-can-i-change-the-background-color-of-a-textbutton-in-flutter)
+</details>
+
+<details>
+  <summary>Quizzler - Notes</summary>
+
+  * To style the `TextButton` widget we have to add the `style: ButtonStyle()` attribute, every reference to color styling inside the `ButtonStyle()` you have to send a `MaterialStateProperty` and to use `Colors.color` then you have to use `MaterialStateProperty.all(Colors.color),`. For reference go to this [link](https://stackoverflow.com/questions/66547273/how-can-i-change-the-background-color-of-a-textbutton-in-flutter) or to the 3rd link in the **Quizzler - Useful Links**. 
+</details>
