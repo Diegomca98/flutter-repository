@@ -7,16 +7,17 @@ All these projects are from the course <a href="https://www.udemy.com/course/flu
 <details>
   <summary>Useful Resources</summary>
    
-   1. <a href="https://docs.flutter.dev/ui/widgets">Flutter Widget Catalog</a>
-   2. <a href="https://icons8.com/">Iconos8</a>
-   3. <a href="https://www.vecteezy.com/">Vecteezy</a>
-   4. <a href="https://www.canva.com/">Canva</a>
-   5. <a href="https://docs.flutter.dev/ui">Building User Interfaces - Basics</a>
-   6. <a href="https://pub.dev/">The official package repository for Dart and Flutter apps</a>
-   7. <a href="https://docs.flutter.dev/packages-and-plugins/using-packages">Using Packages - Docs </a>
-   8. <a href="https://docs.flutter.dev/packages-and-plugins/developing-packages">Developing Packages & Plugins - Docs</a>
-   9. <a href="https://dart.dev/language/loops">Dart Loops - Docs</a>
-   10. <a href="https://dart.dev/language/functions">Dart Functions - Docs</a>
+   1. [Flutter Widget Catalog](https://docs.flutter.dev/ui/widgets)
+   2. [Iconos8](https://icons8.com/)
+   3. [Vecteezy](https://www.vecteezy.com/)
+   4. [Canva](https://www.canva.com/)
+   5. [Building User Interfaces - Basics](https://docs.flutter.dev/ui)
+   6. [The official package repository for Dart and Flutter apps](https://pub.dev/)
+   7. [Using Packages - Docs](https://docs.flutter.dev/packages-and-plugins/using-packages)
+   8. [Developing Packages & Plugins - Docs](https://docs.flutter.dev/packages-and-plugins/developing-packages)
+   9. [Dart Loops - Docs](https://dart.dev/language/loops)
+   10. [Dart Functions - Docs](https://dart.dev/language/functions)
+   11. [New Buttons and Button Themes](https://docs.flutter.dev/release/breaking-changes/buttons)
    
 </details>
 
