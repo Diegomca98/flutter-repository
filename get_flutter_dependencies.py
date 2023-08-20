@@ -1,14 +1,18 @@
 import os
 
-projects = [
-    'i_am_rich', 
-    'i_am_poor', 
-    'mi_card_flutter', 
-    'dicee_app', 
-    'magic_8_ball', 
-    'xylophone', 
-    'quizzler',
+not_project_folders = [
+    '.git', 
+    'general_resources', 
+    'get_flutter_dependencies.py', 
+    'LICENSE', 
+    'README.MD'
 ]
+
+projects = os.listdir()
+
+for i in not_project_folders:
+    if i in projects:
+        projects.remove(i)
 
 flutter_ops = ['Create Project', 'Get Dependencies']
 
